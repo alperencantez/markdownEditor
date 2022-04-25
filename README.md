@@ -22,6 +22,6 @@ You may also see any lint errors in the console.
 
 ### Screenshot
 
-![](/markdown-editor/public/reactmd.png)
+![](/public/reactmd.png)
 
 #### _Don't forget to check my other repositories._
