@@ -1,0 +1,24 @@
+.App {
+  background: transparent;
+}
+
+body {
+  background: #f5f2f2;
+}
+
+textarea {
+  background: #f5f2f2;
+  outline: none;
+  border: none;
+  border: 2px dashed #cacaca;
+}
+
+#title,
+textarea {
+  font-family: monospace;
+}
+
+.markdown {
+  overflow: scroll;
+  background: #fff;
+}
